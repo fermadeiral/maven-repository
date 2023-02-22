@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.inria.repairnator</groupId>
+  <artifactId>repairnator-root</artifactId>
+  <version>3.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180906.123721</timestamp>
+      <buildNumber>8</buildNumber>
+    </snapshot>
+    <lastUpdated>20180906123721</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.1-20180906.123721-8</value>
+        <updated>20180906123721</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

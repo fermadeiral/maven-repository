@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.inria.jtravis</groupId>
+  <artifactId>jtravis</artifactId>
+  <version>2.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180412.114546</timestamp>
+      <buildNumber>8</buildNumber>
+    </snapshot>
+    <lastUpdated>20180412114546</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.2-20180412.114546-8</value>
+        <updated>20180412114546</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.2-20180412.114546-8</value>
+        <updated>20180412114546</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

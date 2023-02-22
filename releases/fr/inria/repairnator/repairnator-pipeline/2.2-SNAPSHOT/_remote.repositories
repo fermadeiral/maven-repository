@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 16 22:53:42 BRT 2018
+repairnator-pipeline-2.2-SNAPSHOT.jar>=
+repairnator-pipeline-2.2-SNAPSHOT-jar-with-dependencies.jar>=
+repairnator-pipeline-2.2-SNAPSHOT.pom>=

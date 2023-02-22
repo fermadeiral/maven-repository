@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 10 08:26:35 BRT 2018
+https\://tdurieux.github.io/maven-repository/releases/.lastUpdated=1525951595480
+https\://tdurieux.github.io/maven-repository/snapshots/.error=
+https\://tdurieux.github.io/maven-repository/snapshots/.lastUpdated=1525951594695
+https\://repo.maven.apache.org/maven2/.lastUpdated=1525868734629
+@default-oss-snapshot-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1525867533854
+https\://oss.sonatype.org/content/repositories/snapshots/.error=Could not transfer artifact fr.inria.gforge.spirals\:nopol\:pom\:57043332ea5b37025924f46eb13944b0283eae8e from/to oss-snapshot (https\://oss.sonatype.org/content/repositories/snapshots/)\: oss.sonatype.org\: Name or service not known
+https\://repo.maven.apache.org/maven2/.error=

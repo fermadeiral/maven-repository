@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.ufu.lascam</groupId>
+  <artifactId>test-repairnator-bears-patchstats</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180531192931</lastUpdated>
+  </versioning>
+</metadata>

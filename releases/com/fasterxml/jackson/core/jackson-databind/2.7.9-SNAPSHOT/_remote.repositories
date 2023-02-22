@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Feb 03 23:01:28 BRST 2019
+jackson-databind-2.7.9-SNAPSHOT.jar>=
+jackson-databind-2.7.9-SNAPSHOT.pom>=

@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 10 13:54:40 BRT 2018
+jargs-2.0-20130121.212743-2.jar>oss-snapshot=
+jargs-2.0-20130121.212743-2.jar>sonatype-nexus-snapshots=
+jargs-2.0-20130121.212743-2.jar>sonatype-oss-public=
+jargs-2.0-20130121.212743-2.pom>sonatype-nexus-snapshots=
+jargs-2.0-20130121.212743-2.pom>sonatype-oss-public=
+jargs-2.0-20130121.212743-2.pom>oss-snapshot=

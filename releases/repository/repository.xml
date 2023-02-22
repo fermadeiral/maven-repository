@@ -1,0 +1,129 @@
+<repository lastmodified='20230222113656.677'>
+  <resource id='com.fasterxml.jackson.core.jackson-databind/2.8.8.SNAPSHOT' symbolicname='com.fasterxml.jackson.core.jackson-databind' presentationname='jackson-databind' uri='com/fasterxml/jackson/core/jackson-databind/2.8.8-SNAPSHOT/jackson-databind-2.8.8-SNAPSHOT.jar' version='2.8.8.SNAPSHOT'>
+    <description>General data-binding functionality for Jackson: works on core streaming API</description>
+    <size>1233348</size>
+    <documentation>http://github.com/FasterXML/jackson</documentation>
+    <license>http://www.apache.org/licenses/LICENSE-2.0.txt</license>
+    <capability name='bundle'>
+      <p n='symbolicname' v='com.fasterxml.jackson.core.jackson-databind'/>
+      <p n='presentationname' v='jackson-databind'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+      <p n='manifestversion' v='2'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.annotation'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.cfg'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.deser'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.deser.impl'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.deser.std'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.exc'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.ext'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.introspect'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.jsonFormatVisitors'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.jsonschema'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.jsontype'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.jsontype.impl'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.module'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.node'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.ser'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.ser.impl'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.ser.std'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.type'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <capability name='package'>
+      <p n='package' v='com.fasterxml.jackson.databind.util'/>
+      <p n='version' t='version' v='2.8.8.SNAPSHOT'/>
+    </capability>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.annotation)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.annotation;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.core)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.core;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.core.base)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.core.base;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.core.filter)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.core.filter;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.core.format)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.core.format;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.core.io)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.core.io;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.core.json)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.core.json;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.core.type)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.core.type;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.core.util)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.core.util;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.annotation)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.annotation;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.cfg)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.cfg;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.deser)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.deser;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.deser.impl)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.deser.impl;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.deser.std)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.deser.std;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.exc)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.exc;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.ext)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.ext;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.introspect)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.introspect;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.jsonFormatVisitors)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.jsonFormatVisitors;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.jsonschema)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.jsonschema;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.jsontype)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.jsontype;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.jsontype.impl)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.jsontype.impl;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.node)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.node;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.ser)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.ser;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.ser.impl)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.ser.impl;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.ser.std)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.ser.std;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.type)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.type;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=com.fasterxml.jackson.databind.util)(version&gt;=2.8.0)(!(version&gt;=3.0.0)))' extend='false' multiple='false' optional='false'>Import package com.fasterxml.jackson.databind.util;version="[2.8,3)"</require>
+    <require name='package' filter='(&amp;(package=javax.xml.datatype))' extend='false' multiple='false' optional='false'>Import package javax.xml.datatype</require>
+    <require name='package' filter='(&amp;(package=javax.xml.namespace))' extend='false' multiple='false' optional='false'>Import package javax.xml.namespace</require>
+    <require name='package' filter='(&amp;(package=javax.xml.parsers))' extend='false' multiple='false' optional='false'>Import package javax.xml.parsers</require>
+    <require name='package' filter='(&amp;(package=org.w3c.dom))' extend='false' multiple='false' optional='false'>Import package org.w3c.dom</require>
+    <require name='package' filter='(&amp;(package=org.w3c.dom.bootstrap))' extend='false' multiple='false' optional='false'>Import package org.w3c.dom.bootstrap</require>
+    <require name='package' filter='(&amp;(package=org.w3c.dom.ls))' extend='false' multiple='false' optional='false'>Import package org.w3c.dom.ls</require>
+    <require name='package' filter='(&amp;(package=org.xml.sax))' extend='false' multiple='false' optional='false'>Import package org.xml.sax</require>
+  </resource>
+</repository>

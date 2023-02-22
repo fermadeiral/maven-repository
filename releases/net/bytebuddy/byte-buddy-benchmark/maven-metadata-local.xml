@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.bytebuddy</groupId>
+  <artifactId>byte-buddy-benchmark</artifactId>
+  <versioning>
+    <versions>
+      <version>1.7.12-SNAPSHOT</version>
+      <version>1.8.23-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190627192802</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Feb 19 05:29:14 BRT 2019
+pippo-metrics-influxdb-1.12.0-SNAPSHOT.jar>=
+pippo-metrics-influxdb-1.12.0-SNAPSHOT-sources.jar>=
+pippo-metrics-influxdb-1.12.0-SNAPSHOT.pom>=
+pippo-metrics-influxdb-1.12.0-SNAPSHOT-javadoc.jar>=

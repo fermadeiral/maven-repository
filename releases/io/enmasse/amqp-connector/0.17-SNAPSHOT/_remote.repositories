@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 15:37:21 BRT 2019
+amqp-connector-0.17-SNAPSHOT.jar>=
+amqp-connector-0.17-SNAPSHOT.pom>=

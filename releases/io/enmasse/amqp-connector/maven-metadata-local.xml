@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.enmasse</groupId>
+  <artifactId>amqp-connector</artifactId>
+  <versioning>
+    <versions>
+      <version>0.17-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190627183721</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.blazebit</groupId>
+  <artifactId>blaze-persistence-core-testsuite</artifactId>
+  <versioning>
+    <versions>
+      <version>1.2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190204221752</lastUpdated>
+  </versioning>
+</metadata>

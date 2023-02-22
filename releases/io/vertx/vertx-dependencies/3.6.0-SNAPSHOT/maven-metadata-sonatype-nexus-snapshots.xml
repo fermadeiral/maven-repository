@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.vertx</groupId>
+  <artifactId>vertx-dependencies</artifactId>
+  <version>3.6.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181126.083145</timestamp>
+      <buildNumber>210</buildNumber>
+    </snapshot>
+    <lastUpdated>20181126083145</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.6.0-20181126.083145-210</value>
+        <updated>20181126083145</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

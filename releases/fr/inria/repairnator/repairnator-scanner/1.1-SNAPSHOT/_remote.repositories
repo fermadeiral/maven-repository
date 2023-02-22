@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 12 09:02:27 BRT 2018
+repairnator-scanner-1.1-20180412.085238-10.pom>ossSnapshot=
+repairnator-scanner-1.1-SNAPSHOT.jar>=
+repairnator-scanner-1.1-SNAPSHOT-jar-with-dependencies.jar>=
+repairnator-scanner-1.1-20180412.085238-10-jar-with-dependencies.jar>ossSnapshot=
+repairnator-scanner-1.1-SNAPSHOT.pom>=

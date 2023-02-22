@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 16:27:49 BRT 2019
+byte-buddy-dep-1.8.23-SNAPSHOT.jar>=
+byte-buddy-dep-1.8.23-SNAPSHOT.pom>=

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.enmasse</groupId>
+  <artifactId>address-controller</artifactId>
+  <versioning>
+    <versions>
+      <version>0.17-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190627183111</lastUpdated>
+  </versioning>
+</metadata>

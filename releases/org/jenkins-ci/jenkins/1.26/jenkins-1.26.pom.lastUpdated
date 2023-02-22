@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 09 00:14:49 BRT 2018
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+https\://tdurieux.github.io/maven-repository/releases/.error=
+https\://tdurieux.github.io/maven-repository/releases/.lastUpdated=1539054888402
+https\://tdurieux.github.io/maven-repository/snapshots/.lastUpdated=1539054888254
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1522837101619
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1539054889118
+http\://repo.jenkins-ci.org/public/.lastUpdated=1519470587775
+https\://repo.maven.apache.org/maven2/.lastUpdated=1539054889266
+https\://repo.maven.apache.org/maven2/.error=
+https\://tdurieux.github.io/maven-repository/snapshots/.error=
+https\://repository.apache.org/content/groups/snapshots/.error=

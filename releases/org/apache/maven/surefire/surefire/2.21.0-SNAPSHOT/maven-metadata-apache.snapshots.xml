@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.maven.surefire</groupId>
+  <artifactId>surefire</artifactId>
+  <version>2.21.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180227.042620</timestamp>
+      <buildNumber>84</buildNumber>
+    </snapshot>
+    <lastUpdated>20180227042620</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.21.0-20180227.042620-84</value>
+        <updated>20180227042620</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>site</classifier>
+        <extension>xml</extension>
+        <value>2.21.0-20180227.042620-84</value>
+        <updated>20180227042620</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

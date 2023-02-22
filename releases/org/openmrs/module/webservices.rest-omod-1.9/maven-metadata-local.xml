@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.openmrs.module</groupId>
+  <artifactId>webservices.rest-omod-1.9</artifactId>
+  <versioning>
+    <versions>
+      <version>2.23.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190627155954</lastUpdated>
+  </versioning>
+</metadata>

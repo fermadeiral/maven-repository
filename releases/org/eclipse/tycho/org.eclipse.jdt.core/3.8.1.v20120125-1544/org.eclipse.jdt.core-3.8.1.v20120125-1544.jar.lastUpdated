@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 12:10:22 BRT 2019
+@default-openmrs-repo-http\://mavenrepo.openmrs.org/nexus/content/repositories/public/.lastUpdated=1561648056006
+https\://repo.maven.apache.org/maven2/.lastUpdated=1561648222901
+http\://mavenrepo.openmrs.org/nexus/content/repositories/public/.error=Could not transfer artifact org.eclipse.tycho\:org.eclipse.jdt.core\:jar\:3.8.1.v20120125-1544 from/to openmrs-repo (http\://mavenrepo.openmrs.org/nexus/content/repositories/public)\: GET request of\: org/eclipse/tycho/org.eclipse.jdt.core/3.8.1.v20120125-1544/org.eclipse.jdt.core-3.8.1.v20120125-1544.jar from openmrs-repo failed

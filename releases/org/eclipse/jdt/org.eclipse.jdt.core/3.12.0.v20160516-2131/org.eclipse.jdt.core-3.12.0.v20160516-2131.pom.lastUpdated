@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Apr 15 12:34:24 BRT 2018
+http\://spoon.gforge.inria.fr/repositories/releases/.lastUpdated=1523806464457
+http\://spoon.gforge.inria.fr/repositories/snapshots/.lastUpdated=1523806462184
+https\://repo.maven.apache.org/maven2/.lastUpdated=1523806463954
+http\://spoon.gforge.inria.fr/repositories/snapshots/.error=
+https\://repo.maven.apache.org/maven2/.error=
+http\://spoon.gforge.inria.fr/repositories/releases/.error=

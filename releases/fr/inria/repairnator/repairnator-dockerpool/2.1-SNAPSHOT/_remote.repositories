@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 10 14:26:30 BRT 2018
+repairnator-dockerpool-2.1-SNAPSHOT.jar>=
+repairnator-dockerpool-2.1-SNAPSHOT.pom>=
+repairnator-dockerpool-2.1-SNAPSHOT-jar-with-dependencies.jar>=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 16:45:53 BRT 2019
+jackson-databind-2.8.9.pom>central=
+jackson-databind-2.8.9.pom>spring-libs-snapshot=
+jackson-databind-2.8.9.jar>spring-libs-snapshot=
+jackson-databind-2.8.9.jar>central=

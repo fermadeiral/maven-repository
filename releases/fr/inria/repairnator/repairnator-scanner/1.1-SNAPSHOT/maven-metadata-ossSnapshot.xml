@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>fr.inria.repairnator</groupId>
+  <artifactId>repairnator-scanner</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180412.085238</timestamp>
+      <buildNumber>10</buildNumber>
+    </snapshot>
+    <lastUpdated>20180412085238</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
+        <value>1.1-20180412.085238-10</value>
+        <updated>20180412085238</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1-20180412.085238-10</value>
+        <updated>20180412085238</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-20180412.085238-10</value>
+        <updated>20180412085238</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

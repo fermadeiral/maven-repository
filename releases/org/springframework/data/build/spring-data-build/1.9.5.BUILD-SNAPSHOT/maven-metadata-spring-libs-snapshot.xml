@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.data.build</groupId>
+  <artifactId>spring-data-build</artifactId>
+  <version>1.9.5.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170724.131739</timestamp>
+      <buildNumber>8</buildNumber>
+    </snapshot>
+    <lastUpdated>20170724131812</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.9.5.BUILD-20170724.131739-8</value>
+        <updated>20170724131739</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

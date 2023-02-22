@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 15 17:28:30 BRST 2019
+vertx-web-common-3.6.0-SNAPSHOT-tests.jar>=
+vertx-web-common-3.6.0-SNAPSHOT.pom>=
+vertx-web-common-3.6.0-SNAPSHOT-sources.jar>=
+vertx-web-common-3.6.0-SNAPSHOT.jar>=

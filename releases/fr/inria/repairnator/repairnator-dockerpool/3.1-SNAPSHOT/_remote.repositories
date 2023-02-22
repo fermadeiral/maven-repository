@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 09 19:52:23 BRT 2018
+repairnator-dockerpool-3.1-SNAPSHOT-jar-with-dependencies.jar>=
+repairnator-dockerpool-3.1-SNAPSHOT.pom>=
+repairnator-dockerpool-3.1-20180906.123736-8-jar-with-dependencies.jar>ossSnapshot=
+repairnator-dockerpool-3.1-20180906.123736-8.pom>ossSnapshot=
+repairnator-dockerpool-3.1-SNAPSHOT.jar>=

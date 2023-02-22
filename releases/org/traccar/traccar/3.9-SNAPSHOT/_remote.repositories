@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 15:39:12 BRT 2019
+traccar-3.9-SNAPSHOT.jar>=
+traccar-3.9-SNAPSHOT-jar-with-dependencies.jar>=
+traccar-3.9-SNAPSHOT.pom>=

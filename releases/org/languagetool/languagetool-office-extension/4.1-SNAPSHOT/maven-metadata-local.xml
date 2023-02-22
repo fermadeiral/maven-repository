@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.languagetool</groupId>
+  <artifactId>languagetool-office-extension</artifactId>
+  <version>4.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20181018113057</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>zip</extension>
+        <value>4.1-SNAPSHOT</value>
+        <updated>20181018113057</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>4.1-SNAPSHOT</value>
+        <updated>20181018113055</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>4.1-SNAPSHOT</value>
+        <updated>20181018113055</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

@@ -1,0 +1,105 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>com.indeed</groupId>
+        <artifactId>common-parent</artifactId>
+        <version>10</version>
+    </parent>
+
+    <artifactId>oss-parent</artifactId>
+    <version>13</version>
+    <packaging>pom</packaging>
+    <name>Parent POM for open source projects from Indeed.com Engineering</name>
+    <description>Shared Maven configuration for Indeed.com</description>
+
+    <developers />
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/indeedeng/oss-parent-pom</url>
+        <connection>scm:git:https://github.com/indeedeng/oss-parent-pom.git</connection>
+        <developerConnection>scm:git:git@github.com:indeedeng/oss-parent-pom.git</developerConnection>
+    </scm>
+
+    <build>
+    </build>
+
+    <profiles>
+        <profile>
+            <id>indeed-office</id>
+            <distributionManagement>
+                <repository>
+                    <id>indeed-oss-internal-releases</id>
+                    <name>Indeed OSS Internal Releases Repository</name>
+                    <url>${indeed-oss-internal-releases.upload.url}</url>
+                    <layout>default</layout>
+                </repository>
+                <snapshotRepository>
+                    <id>indeed-oss-snapshots</id>
+                    <name>Indeed OSS Snapshots Repository</name>
+                    <url>${indeed-oss-snapshots.upload.url}</url>
+                    <uniqueVersion>true</uniqueVersion>
+                    <layout>default</layout>
+                </snapshotRepository>
+            </distributionManagement>
+            <repositories>
+                <repository>
+                    <id>indeed-oss-internal-releases</id>
+                    <name>Indeed OSS Internal Releases Repository</name>
+                    <url>${indeed-oss-internal-releases.download.url}</url>
+                    <layout>default</layout>
+                    <releases><enabled>true</enabled></releases>
+                    <snapshots><enabled>false</enabled></snapshots>
+                </repository>
+                <repository>
+                    <id>indeed-oss-snapshots</id>
+                    <name>Indeed OSS Repository</name>
+                    <url>${indeed-oss-snapshots.download.url}</url>
+                    <releases><enabled>false</enabled></releases>
+                    <snapshots><enabled>true</enabled></snapshots>
+                </repository>
+                <repository>
+                    <id>sonatype-nexus-staging</id>
+                    <name>Nexus Release Repository</name>
+                    <url>https://oss.sonatype.org/content/repositories/releases/</url>
+                    <releases><enabled>true</enabled></releases>
+                    <snapshots><enabled>false</enabled></snapshots>
+                </repository>
+            </repositories>
+        </profile>
+        <profile>
+            <id>sonatype-oss-release</id>
+            <properties>
+                <releaseOnClose>true</releaseOnClose>
+            </properties>
+            <build>
+                <plugins>
+                    <plugin>
+                        <groupId>org.sonatype.plugins</groupId>
+                        <artifactId>nexus-staging-maven-plugin</artifactId>
+                        <version>1.4.7</version>
+                        <extensions>true</extensions>
+                        <configuration>
+                            <serverId>sonatype-nexus-staging</serverId>
+                            <nexusUrl>https://oss.sonatype.org/</nexusUrl>
+                        </configuration>
+                    </plugin>
+                    <plugin>
+                        <groupId>org.codehaus.mojo</groupId>
+                        <artifactId>versions-maven-plugin</artifactId>
+                        <version>2.1</version>
+                    </plugin>
+                </plugins>
+            </build>
+        </profile>
+    </profiles>
+
+</project>

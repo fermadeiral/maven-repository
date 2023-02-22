@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.vertx</groupId>
+  <artifactId>vertx-web-client</artifactId>
+  <versioning>
+    <versions>
+      <version>3.6.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190215192843</lastUpdated>
+  </versioning>
+</metadata>

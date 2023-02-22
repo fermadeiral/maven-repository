@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 16 22:55:03 BRT 2018
+repairnator-realtime-2.2-SNAPSHOT.pom>=
+repairnator-realtime-2.2-SNAPSHOT-jar-with-dependencies.jar>=
+repairnator-realtime-2.2-SNAPSHOT.jar>=

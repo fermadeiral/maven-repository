@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.webfirmframework</groupId>
+  <artifactId>wffweb</artifactId>
+  <versioning>
+    <versions>
+      <version>3.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190605143444</lastUpdated>
+  </versioning>
+</metadata>

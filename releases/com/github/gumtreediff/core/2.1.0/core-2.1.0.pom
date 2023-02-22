@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.gumtreediff</groupId>
+  <artifactId>core</artifactId>
+  <version>2.1.0</version>
+  <name>GumTree core</name>
+  <description>GumTree core module.</description>
+  <url>https://github.com/GumTreeDiff/gumtree/</url>
+  <licenses>
+    <license>
+      <name>GNU Lesser General Public License v3.0</name>
+      <url>https://www.gnu.org/copyleft/lesser.html</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>jre</id>
+      <name>Jean-Rémy Falleri</name>
+      <email>jr.falleri@gmail.com</email>
+    </developer>
+    <developer>
+      <id>flop</id>
+      <name>Floréal Morandat</name>
+      <email>florealm@gmail.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/GumTreeDiff/gumtree/</connection>
+    <developerConnection>scm:git:https://github.com/GumTreeDiff/gumtree/</developerConnection>
+    <url>https://github.com/GumTreeDiff/gumtree/</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.github.mpkorstanje</groupId>
+      <artifactId>simmetrics-core</artifactId>
+      <version>3.2.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.sf.trove4j</groupId>
+      <artifactId>trove4j</artifactId>
+      <version>3.0.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.8.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jgrapht</groupId>
+      <artifactId>jgrapht-core</artifactId>
+      <version>1.0.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>[4,5)</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>

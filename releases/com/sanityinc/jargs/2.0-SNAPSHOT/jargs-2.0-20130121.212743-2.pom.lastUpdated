@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 10 13:54:40 BRT 2018
+http\://spoon.gforge.inria.fr/repositories/snapshots/.error=
+http\://sachaproject.gforge.inria.fr/repositories/releases/.error=
+http\://sachaproject.gforge.inria.fr/repositories/releases/.lastUpdated=1519471041039
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1519471042356
+https\://tdurieux.github.io/maven-repository/releases/.error=
+http\://maven-repo.gforge.inria.fr/releases/.error=
+https\://tdurieux.github.io/maven-repository/releases/.lastUpdated=1521547553163
+https\://tdurieux.github.io/maven-repository/snapshots/.lastUpdated=1521547552129
+https\://repository.apache.org/content/groups/snapshots/.lastUpdated=1521547551094
+http\://spoon.gforge.inria.fr/repositories/releases/.error=
+http\://spoon.gforge.inria.fr/repositories/releases/.lastUpdated=1519471041979
+http\://spoon.gforge.inria.fr/repositories/snapshots/.lastUpdated=1519471041514
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1525971280525
+http\://maven-repo.gforge.inria.fr/releases/.lastUpdated=1519471040571
+https\://tdurieux.github.io/maven-repository/snapshots/.error=
+https\://repository.apache.org/content/groups/snapshots/.error=

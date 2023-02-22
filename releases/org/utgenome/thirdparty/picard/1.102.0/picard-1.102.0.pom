@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.utgenome.thirdparty</groupId>
+    <artifactId>picard</artifactId>
+    <packaging>jar</packaging>
+    <description>Picard library for manipulating SAM/BAM format data</description>
+    <version>1.102.0</version>
+    <name>picard</name>
+    <organization>
+        <name>utgenome.org</name>
+        <url>http://utgenome.org/</url>
+    </organization>
+    <url>http://utgenome.org/</url>
+    <licenses>
+        <license>
+            <name>Apache 2</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <scm>
+        <connection>scm:git:github.com/utgenome/picard.git</connection>
+        <developerConnection>scm:git:git@github.com:utgenome/picard.git</developerConnection>
+        <url>github.com/utgenome/picard.git</url>
+    </scm>
+    <properties>
+        <scala.version> 2.10.0 </scala.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+    <developers>
+        <developer>
+            <id>leo</id>
+            <name>Taro L. Saito</name>
+            <url>http://xerial.org/leo</url>
+        </developer>
+    </developers>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.10</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.ant</groupId>
+            <artifactId>ant</artifactId>
+            <version>1.8.4</version>
+        </dependency>
+        <dependency>
+            <groupId>org.xerial.snappy</groupId>
+            <artifactId>snappy-java</artifactId>
+            <version>1.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-jexl</artifactId>
+            <version>2.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>commons-logging</groupId>
+            <artifactId>commons-logging</artifactId>
+            <version>1.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.ant</groupId>
+            <artifactId>ant-apache-bcel</artifactId>
+            <version>1.8.4</version>
+        </dependency>
+    </dependencies>
+</project>

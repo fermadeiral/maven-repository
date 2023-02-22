@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Oct 18 08:24:41 BRT 2018
+languagetool-core-4.1-SNAPSHOT.pom>=
+languagetool-core-4.1-SNAPSHOT-tests.jar>=
+languagetool-core-4.1-SNAPSHOT.jar>=

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 15:31:27 BRT 2019
+core-3.2.1.jar>central=
+core-3.2.1.pom>MavenCentral=
+core-3.2.1.jar>MavenCentral=
+core-3.2.1.pom>central=

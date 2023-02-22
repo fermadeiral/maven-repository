@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>eu.stamp-project</groupId>
+  <artifactId>assert-fixer</artifactId>
+  <version>1.0.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180518.095709</timestamp>
+      <buildNumber>5</buildNumber>
+    </snapshot>
+    <lastUpdated>20180518095709</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.5-20180518.095709-5</value>
+        <updated>20180518095709</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.5-20180518.095709-5</value>
+        <updated>20180518095709</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>jar-with-dependencies</classifier>
+        <extension>jar</extension>
+        <value>1.0.5-20180518.095709-5</value>
+        <updated>20180518095709</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

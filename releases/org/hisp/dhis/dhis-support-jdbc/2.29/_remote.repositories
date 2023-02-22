@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 04 10:05:50 BRST 2019
+dhis-support-jdbc-2.29.pom>=
+dhis-support-jdbc-2.29.jar>=

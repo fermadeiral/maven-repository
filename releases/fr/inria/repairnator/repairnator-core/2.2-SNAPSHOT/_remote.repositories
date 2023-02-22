@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 14 21:42:13 BRT 2018
+repairnator-core-2.2-SNAPSHOT.jar>=
+repairnator-core-2.2-SNAPSHOT.pom>=
+repairnator-core-2.2-20180614.145209-66.jar>oss-snapshot=
+repairnator-core-2.2-20180515.155747-17.jar>ossSnapshot=
+repairnator-core-2.2-20180515.155747-17.pom>ossSnapshot=
+repairnator-core-2.2-20180515.151155-15.pom>ossSnapshot=
+repairnator-core-2.2-20180515.153205-16.jar>ossSnapshot=
+repairnator-core-2.2-20180515.151155-15.jar>ossSnapshot=
+repairnator-core-2.2-20180515.153205-16.pom>ossSnapshot=

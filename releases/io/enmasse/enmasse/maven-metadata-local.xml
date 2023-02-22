@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.enmasse</groupId>
+  <artifactId>enmasse</artifactId>
+  <versioning>
+    <versions>
+      <version>0.17-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190627182814</lastUpdated>
+  </versioning>
+</metadata>

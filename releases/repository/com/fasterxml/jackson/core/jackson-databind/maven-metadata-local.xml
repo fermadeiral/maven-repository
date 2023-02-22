@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.fasterxml.jackson.core</groupId>
+  <artifactId>jackson-databind</artifactId>
+  <versioning>
+    <versions>
+      <version>2.8.8-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230222223656</lastUpdated>
+  </versioning>
+</metadata>

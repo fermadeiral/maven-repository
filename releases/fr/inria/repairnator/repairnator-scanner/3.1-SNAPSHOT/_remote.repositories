@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 09 19:50:56 BRT 2018
+repairnator-scanner-3.1-SNAPSHOT.jar>=
+repairnator-scanner-3.1-SNAPSHOT.pom>=
+repairnator-scanner-3.1-SNAPSHOT-jar-with-dependencies.jar>=
+repairnator-scanner-3.1-20180906.123723-8.pom>ossSnapshot=
+repairnator-scanner-3.1-20180906.123723-8-jar-with-dependencies.jar>ossSnapshot=

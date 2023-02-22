@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 11:22:30 BRT 2019
+spring-data-commons-1.13.0.BUILD-SNAPSHOT.jar>=
+spring-data-commons-1.13.0.BUILD-SNAPSHOT-sources.jar>=
+spring-data-commons-1.13.0.BUILD-SNAPSHOT.pom>=

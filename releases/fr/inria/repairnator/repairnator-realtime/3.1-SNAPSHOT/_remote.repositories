@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 09 19:58:00 BRT 2018
+repairnator-realtime-3.1-SNAPSHOT.jar>=
+repairnator-realtime-3.1-SNAPSHOT-jar-with-dependencies.jar>=
+repairnator-realtime-3.1-SNAPSHOT.pom>=

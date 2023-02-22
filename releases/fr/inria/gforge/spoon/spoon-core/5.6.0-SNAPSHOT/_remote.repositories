@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 16:39:32 BRT 2019
+spoon-core-5.6.0-SNAPSHOT.pom>=
+spoon-core-5.6.0-SNAPSHOT-jar-with-dependencies.jar>=
+spoon-core-5.6.0-SNAPSHOT.jar>=

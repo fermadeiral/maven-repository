@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 15 12:34:01 BRST 2019
+vertx-codegen-3.6.0-20181123.163954-147.jar>sonatype-nexus-snapshots=
+vertx-codegen-3.6.0-20181123.163954-147-tests.jar>sonatype-nexus-snapshots=
+vertx-codegen-3.6.0-20181123.163954-147.pom>sonatype-nexus-snapshots=

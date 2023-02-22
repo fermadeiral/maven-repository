@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 14:13:35 BRT 2019
+maven-archiver-2.2.jar>openmrs-repo=
+maven-archiver-2.2.jar>central=
+maven-archiver-2.2.pom>central=
+maven-archiver-2.2.pom>openmrs-repo=

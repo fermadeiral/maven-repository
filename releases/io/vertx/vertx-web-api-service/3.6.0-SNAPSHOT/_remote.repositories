@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 15 17:29:02 BRST 2019
+vertx-web-api-service-3.6.0-SNAPSHOT-docs.zip>=
+vertx-web-api-service-3.6.0-SNAPSHOT.jar>=
+vertx-web-api-service-3.6.0-SNAPSHOT.pom>=
+vertx-web-api-service-3.6.0-SNAPSHOT-tests.jar>=
+vertx-web-api-service-3.6.0-SNAPSHOT-sources.jar>=
+vertx-web-api-service-3.6.0-SNAPSHOT-test-sources.jar>=
